@@ -1,0 +1,16 @@
+body {
+    background-color: lightseagreen;
+}
+h1{
+    height: 70px;
+    width: 300px;
+    color: goldenrod;
+    background-color: rgb(34, 36, 34);
+    margin: auto;
+    justify-content: center;
+    border: 2px solid rgb(900, 110, 333);
+    display: flex;
+    align-items: center;
+
+
+}
